@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Python volvio!"""
 
+
 def pascal_triangle(n):
     """Pascal triangle"""
     if n <= 0:
