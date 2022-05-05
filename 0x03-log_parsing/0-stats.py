@@ -27,4 +27,4 @@ finally:
     print("File size: {}".format(FileSize))
     for f in code:
         if stats[f]:
-            print("{}: {}".format(code, stats[f]))
+            print("{}: {}".format(f, stats[f]))
