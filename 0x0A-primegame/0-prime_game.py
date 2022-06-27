@@ -1,8 +1,11 @@
 #!/usr/bin/python3
 
+
 """
 Maria and Ben are playing a game.
 """
+
+
 def isWinner(x, nums):
     """Prime game"""
     if x < 1 or not nums:
